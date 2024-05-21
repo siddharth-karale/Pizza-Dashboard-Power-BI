@@ -25,6 +25,25 @@ This repository contains a Power BI dashboard designed to analyze key performanc
 To explore the Pizza Sales Analysis Dashboard, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the Power BI file (Pizza_Sales_Analysis.pbix) using Power BI Desktop.
+2. Open the Power BI file (Pizza Dashboard.pbix) using Power BI Desktop.
 3. Interact with the dashboard by applying filters to explore various aspects of pizza sales data.
 4. Gain insights into pizza sales trends and patterns.
+
+## Project Structure
+
+- `pizza_sales`: Contains the raw data used for analysis.
+- `dashboard_image`: Stores images used in the project documentation.
+- `pizza.sql`: For SQL code for validating the results of the KPI's
+- `Pizza Dashboard.pbix`: The Power BI file containing the interactive dashboard.
+- `README.md`: This README file providing project information and usage instructions.
+
+## Technologies Used
+
+- Microsoft Excel for data cleaning and preprocessing.
+- SQL for validating KIP's.
+- Power BI for data visualization and dashboard creation.
+- DAX (Data Analysis Expressions) language for creating measures.
+- GitHub for version control and project collaboration.
+
+
+

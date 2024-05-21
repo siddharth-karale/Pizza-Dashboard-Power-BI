@@ -1,4 +1,4 @@
-# Power BI Dashboard - Pizza Sales Analysis
+# SQL | Power BI Dashboard - Pizza Sales Analysis
 
 This repository contains a Power BI dashboard designed to analyze key performance indicators (KPIs) for pizza sales data. The data is assumed to be in Excel format, and the KPIs are validated using SQL queries before being visualized in the dashboard.
 
